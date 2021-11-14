@@ -1,0 +1,48 @@
+body
+{
+    margin:10;
+    padding:0;
+    font-family:sans-serif;
+}
+.contactform
+{
+    box-shadow:0 0 4px 0 rgba(0,0,0,0,.5);
+    margin:50px auto;
+    width:350px;
+    text-align:center;
+}
+.contactform h2
+{
+    background:#efefef;
+    margin-top:0;
+    padding:10px;
+}
+.contactform input
+{
+    display:block;
+    width:90%;
+    margin:10px auto;
+    padding:10px;       
+}
+.contactform textarea
+{
+    width:90%;
+    margin:5px auto;
+    padding:10px;
+    height:80px;
+}
+.submitbtn
+{
+    cursor:pointer;
+    width:150px !important;    
+}
+.g-recaptcha
+{
+    margin:10px 20px;
+}
+.status
+{
+    font-size:15px;
+    color:green;
+    padding:15px;
+}
